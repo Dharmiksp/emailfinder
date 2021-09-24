@@ -1,15 +1,22 @@
-2021-09-24 14:41:08,244 - INFO : File Name:shs.json 
-2021-09-24 14:41:08,244 - INFO : Processing...
-2021-09-24 14:41:08,244 - DEBUG : Using proactor: IocpProactor
-2021-09-24 14:41:08,245 - INFO : START - Validating Emails ...
-2021-09-24 14:41:11,263 - INFO : vivek@capermint.com : Piyush Valid
-2021-09-24 14:41:14,723 - INFO : raj@rpaca.in : Piyush Valid
-2021-09-24 14:41:15,737 - INFO : END - returning control...
-2021-09-24 14:41:16,745 - INFO : 
+2021-09-24 16:26:32,397 - INFO : File Name:shs.json 
+2021-09-24 16:26:32,397 - INFO : Processing...
+2021-09-24 16:26:32,397 - DEBUG : Using proactor: IocpProactor
+2021-09-24 16:26:32,398 - INFO : START - Validating Emails ...
+2021-09-24 16:26:34,043 - INFO : dharmik@gmail.com : Valid
+2021-09-24 16:26:36,698 - INFO : piyush@gmail.com : Valid
+2021-09-24 16:26:40,906 - INFO : dharmik@saleshandy.com : Valid
+2021-09-24 16:26:45,512 - INFO : piyush@saleshandy.com : Valid
+2021-09-24 16:26:46,524 - INFO : Dharmic: Is Wrong Email Address Syntax
+2021-09-24 16:26:48,870 - INFO : scjedkjalsjckd@gmail.com: Invalid
+2021-09-24 16:26:51,347 - INFO : narad@saleshandy.com: Invalid
+2021-09-24 16:26:54,494 - INFO : dharmik@naukri.com: Invalid
+2021-09-24 16:26:57,901 - INFO : vedant@ikea.com: Invalid
+2021-09-24 16:26:58,907 - INFO : END - returning control...
+2021-09-24 16:26:59,925 - INFO : 
 Result stored in shs-status.json File
 
-2021-09-24 14:41:16,745 - INFO : Total Email : 2
-2021-09-24 14:41:16,745 - INFO : Valid : 2
-2021-09-24 14:41:16,745 - INFO : Invalid : 0
-2021-09-24 14:41:16,745 - INFO : Bad/Risky : 0
-2021-09-24 14:41:16,745 - INFO : Time Taken: 0:00:08.503752
+2021-09-24 16:26:59,925 - INFO : Total Email : 9
+2021-09-24 16:26:59,925 - INFO : Valid : 4
+2021-09-24 16:26:59,925 - INFO : Invalid : 5
+2021-09-24 16:26:59,925 - INFO : Bad/Risky : 0
+2021-09-24 16:26:59,925 - INFO : Time Taken: 0:00:27.524006

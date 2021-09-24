@@ -1,2 +1,48 @@
+[
 {
-{"email": "vivek@capermint.com", "status": "Valid", "reason": "250 Valid", "code": "100"}{"email": "raj@rpaca.in", "status": "Valid", "reason": "250 Valid", "code": "100"}}
+      "email": "dharmik@gmail.com",
+      "status": "valid",
+      "reason": "valid email_id",
+      "code": "250"
+}{
+      "email": "piyush@gmail.com",
+      "status": "valid",
+      "reason": "valid email_id",
+      "code": "250"
+}{
+      "email": "dharmik@saleshandy.com",
+      "status": "valid",
+      "reason": "valid email_id",
+      "code": "250"
+}{
+      "email": "piyush@saleshandy.com",
+      "status": "valid",
+      "reason": "valid email_id",
+      "code": "250"
+}{
+      "email": "Dharmic",
+      "status": "invalid",
+      "reason": "wrong syntax",
+      "code": "501"
+}{
+      "email": "scjedkjalsjckd@gmail.com",
+      "status": "invalid",
+      "reason": "invalid email_id",
+      "code": "505"
+}{
+      "email": "narad@saleshandy.com",
+      "status": "invalid",
+      "reason": "invalid email_id",
+      "code": "505"
+}{
+      "email": "dharmik@naukri.com",
+      "status": "invalid",
+      "reason": "invalid email_id",
+      "code": "505"
+}{
+      "email": "vedant@ikea.com",
+      "status": "invalid",
+      "reason": "invalid email_id",
+      "code": "505"
+}
+]
