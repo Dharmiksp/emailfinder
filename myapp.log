@@ -1,0 +1,15 @@
+2021-09-24 14:41:08,244 - INFO : File Name:shs.json 
+2021-09-24 14:41:08,244 - INFO : Processing...
+2021-09-24 14:41:08,244 - DEBUG : Using proactor: IocpProactor
+2021-09-24 14:41:08,245 - INFO : START - Validating Emails ...
+2021-09-24 14:41:11,263 - INFO : vivek@capermint.com : Piyush Valid
+2021-09-24 14:41:14,723 - INFO : raj@rpaca.in : Piyush Valid
+2021-09-24 14:41:15,737 - INFO : END - returning control...
+2021-09-24 14:41:16,745 - INFO : 
+Result stored in shs-status.json File
+
+2021-09-24 14:41:16,745 - INFO : Total Email : 2
+2021-09-24 14:41:16,745 - INFO : Valid : 2
+2021-09-24 14:41:16,745 - INFO : Invalid : 0
+2021-09-24 14:41:16,745 - INFO : Bad/Risky : 0
+2021-09-24 14:41:16,745 - INFO : Time Taken: 0:00:08.503752
